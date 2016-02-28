@@ -1,0 +1,36 @@
+_repo: History-of-the-Philippine-Islands_7001
+contributor:
+  translators:
+  - agent_name: Blair, Emma Helen
+    deathdate: 1911
+    gutenberg_agent_id: '2296'
+    url: http://www.gutenberg.org/2009/agents/2296
+  - agent_name: Robertson, James Alexander
+    alias: Robertson, J. A. (James Alexander)
+    birthdate: 1873
+    deathdate: 1939
+    gutenberg_agent_id: '2297'
+    url: http://www.gutenberg.org/2009/agents/2297
+creator:
+  author:
+    agent_name: Morga, Antonio de
+    alias: De Morga, Antonio
+    birthdate: 1559
+    deathdate: 1636
+    gutenberg_agent_id: '2295'
+    url: http://www.gutenberg.org/2009/agents/2295
+description: ''
+gutenberg_bookshelf: Children's History
+gutenberg_issued: '2004-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7001'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'Philippines -- History'
+title: History of the Philippine Islands
+url: http://www.gutenberg.org/ebooks/7001
